@@ -1,4 +1,4 @@
-# A list of repos related healthcare, medical research, including dataset and tools for both physical and psychological issues.
+# Healthcare, medical research tools and dataset for both physical and psychological issues.
 
 ## 
 ### DSI-Studio: A Tractography Software Tool for Diffusion MRI Analysis, https://dsi-studio.labsolver.org, https://github.com/frankyeh/DSI-Studio
