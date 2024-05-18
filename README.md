@@ -12,7 +12,7 @@
 
 ## 
 ## DataSet
-### medical-imaging-datasets.  https://github.com/sfikas/medical-imaging-datasets, 
+### medical-imaging-datasets.  https://github.com/sfikas/medical-imaging-datasets
 ### Medical Data for Machine Learning, https://github.com/beamandrew/medical-data
 
 ## 
