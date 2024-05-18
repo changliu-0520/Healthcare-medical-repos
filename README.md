@@ -1,4 +1,4 @@
-# Healthcare, medical research tools and dataset for both physical and psychological issues.
+# Healthcare, medical research tools and dataset.
 
 ## 
 ### DSI-Studio: A Tractography Software Tool for Diffusion MRI Analysis, https://dsi-studio.labsolver.org, https://github.com/frankyeh/DSI-Studio
