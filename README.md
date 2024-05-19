@@ -19,6 +19,7 @@
 ## 
 ### https://github.com/liuhuanyong/QASystemOnMedicalKG
 ### An open statistics textbook for Psychology undergraduates. https://github.com/CrumpLab/statistics
+### https://neuromatch.io/partner/ , https://github.com/NeuromatchAcademy
 
 
 
