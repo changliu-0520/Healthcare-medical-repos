@@ -6,7 +6,7 @@
 
 ## 
 ## Experimentation tool
-### jsPsych, a JavaScript framework for creating behavioral experiments that run in a web browser. https://github.com/jspsych/jsPsych
+### jsPsych, a JavaScript framework for creating behavioral experiments that run in a web browser, https://github.com/jspsych/jsPsych
 ### PsychoPy, For running psychology and neuroscience experiments, https://github.com/psychopy/psychopy
 ### Synthetic Patient Population Simulator. https://github.com/synthetichealth/synthea
 
